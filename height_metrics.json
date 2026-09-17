@@ -1,0 +1,77 @@
+[
+    {
+        "Model": "Logistic Regression",
+        "Accuracy": 0.9417,
+        "Precision": 0.9439,
+        "Recall": 0.9417,
+        "Macro_F1": 0.9415,
+        "Weighted_F1": 0.9415,
+        "Confusion_Matrix": [
+            [
+                38,
+                1,
+                1
+            ],
+            [
+                5,
+                35,
+                0
+            ],
+            [
+                0,
+                0,
+                40
+            ]
+        ]
+    },
+    {
+        "Model": "Random Forest",
+        "Accuracy": 0.9917,
+        "Precision": 0.9919,
+        "Recall": 0.9917,
+        "Macro_F1": 0.9917,
+        "Weighted_F1": 0.9917,
+        "Confusion_Matrix": [
+            [
+                39,
+                0,
+                1
+            ],
+            [
+                0,
+                40,
+                0
+            ],
+            [
+                0,
+                0,
+                40
+            ]
+        ]
+    },
+    {
+        "Model": "XGBoost",
+        "Accuracy": 0.9917,
+        "Precision": 0.9919,
+        "Recall": 0.9917,
+        "Macro_F1": 0.9917,
+        "Weighted_F1": 0.9917,
+        "Confusion_Matrix": [
+            [
+                39,
+                0,
+                1
+            ],
+            [
+                0,
+                40,
+                0
+            ],
+            [
+                0,
+                0,
+                40
+            ]
+        ]
+    }
+]
